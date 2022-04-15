@@ -2,3 +2,6 @@ jack
 jill
 go
 python
+java 
+sl
+machine
